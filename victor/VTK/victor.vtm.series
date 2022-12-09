@@ -1,0 +1,7 @@
+{
+  "file-series-version" : "1.0",
+  "files" : [
+    { "name" : "victor_0.vtm", "time" : 1 },
+    { "name" : "victor_1.vtm", "time" : 2 }
+  ]
+}
